@@ -21,3 +21,6 @@ Let us know If you need some special setup for your presentation.
 
 # Video recording approval
 **YES / NO**
+
+# Language
+**PL / EN / Other**
